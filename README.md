@@ -2,6 +2,8 @@
 
 Prerequisites : Postman ( https://www.getpostman.com/ ) 
 
+Postman Collection Link: https://www.getpostman.com/collections/c4837330af673c9ca01a
+
 Hit a POST request from postman : 
 
 	 http://18.206.255.4:3000/products/CM101
