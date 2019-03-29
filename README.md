@@ -4,12 +4,12 @@ Prerequisites : Postman ( https://www.getpostman.com/ )
 
 Hit a POST request from postman : 
 
-	 http://18.206.255.4/products/CM101 
-	 http://18.206.255.4/products/vanilla 
-	 http://18.206.255.4/products/espresso vanilla
-	 http://18.206.255.4/products/espresso machine
-	 http://18.206.255.4/products/CP101
-	 http://18.206.255.4/products/EP003
+	 http://18.206.255.4:3000/products/CM101
+	 http://18.206.255.4:3000/products/vanilla 
+	 http://18.206.255.4:3000/products/espresso vanilla
+	 http://18.206.255.4:3000/products/espresso machine
+	 http://18.206.255.4:3000/products/CP101
+	 http://18.206.255.4:3000/products/EP003
 
 
 Explanation with test cases of these requests can be found here : 
